@@ -21,3 +21,10 @@
 * [zulip-iosDropbox](https://github.com/zulip/zulip-ios)收购公司内部社交服务商Zulip,然后全部开源，这是iOS App
 * [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)- Objective-C写的XMPP聊天应用
 * [FirebaseChat](https://github.com/relatedcode/FirebaseChat)- Objective-C写的完整的聊天应用
+* [wikipedia](https://github.com/wikimedia/wikipedia-ios)-ios维基百科官方App, 已上架
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
+* [DeckRocket](https://github.com/jpsim/DeckRocket)- 在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档。
+* [DSLolita](https://github.com/sam408130/DSLolita)- 模仿新浪微博做的一款app，有发送博文，评论，点赞，私聊功能。
+* [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/)- iOS开发学习者都希望得到实战训练，但是很多资料都是只有一小部分代码，并不能形成完成的App，笔者在此处收集了很多开源的完整的App，都有源代码哦！--标哥的技术博客
+
+## `Xcode8插件`
