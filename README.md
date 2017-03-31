@@ -1,8 +1,19 @@
 # iOS_Resource
 ### iOS资源库，第三方，学习资料整理
 
-## `Github用法`
+## `Objective-C备忘单`
+* [iOS Biz Weekly](http://iosbizweekly.com/%20)—关于iOS开发的一些链接
+* [Cocoa With Love](http://cocoawithlove.com/)—关于Cocoa的一切
+* [Objc.io—Objective](http://www.objc.io/)-C最佳实践和高级技巧
+* [iOS blog](http://ios-blog.co.uk/)—Objective C教程
+* [Cocoa Is My Girlfriend](http://www.cimgf.com/)—Cocoa小技巧
+* [My App Venture](http://www.myappventure.com/)—iOS App商业博客
+* [Subfurther](http://www.subfurther.com/blog/)—数字媒体性质的开发博客
+* [Big Nerd Rank](http://www.bignerdranch.com/training)—主要是详解一些代码
+* [iPhone Development](http://iphonedevelopment.blogspot.com/)—深度iOS教程
+* [Carbon Five Blog](http://blog.carbonfive.com/category/mobile/)—高级Cocoa iOS入门
 
+## `Github用法`
 * [git-recipesGit](https://github.com/geeeeeeeeek/git-recipes)  -recipes in Chinese. 高质量的`Git中文`教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码)  -怎样在Github上面贡献代码
 * [my-git](https://github.com/xirong/my-git)  -有关 `git` 的学习资料
@@ -52,3 +63,16 @@
 * [Raygun](http://raygun.io/)—iOS App错误跟踪
 * [Mobile Security](http://joppar.com/mobile-app-security-guide/)—iOS 开发入门安全指南
 
+## `支持和社区`
+* [iOS Developers Group](https://plus.google.com/communities/112026628790708717979)—iOS Google+社区
+* [iOS Meetup Groups](http://ios.meetup.com/)—志趣相投者聚集地
+* [iOS Development Quora](https://www.quora.com/iOS-Development/)—Quora上的iOS开发小组
+* [iOS Stackoverflow](http://stackoverflow.com/questions/tagged/ios)—Stackoverflow上的iOS开发小组
+* [iPhone Developer Forum](http://www.reddit.com/r/iOSProgramming/)—iOS开发论坛
+* [iOS Programming](http://www.reddit.com/r/iOSProgramming/)—Reddit上的iOS小组
+* [Cocoa Lit](http://cocoalit.com/)—Cocoa教程
+* [NS Screencast](http://nsscreencast.com/)—iOS开发相关小视频
+* [iOS Developer Tips](http://iosdevelopertips.com/)—iOS开发相关教程和技巧
+* [Clarity.fm](https://clarity.fm/)—付费的专家求助服务
+
+### 注：以上只是作者感兴趣或者觉得有用的网站和服务，还有其他很多iOS开发相关网站、博客以及服务等并未包含在内。 [原文](https://medium.com/@dvreddy/99-great-resources-for-ios-developers-82743b96f3c8#.b61nz1cve)
