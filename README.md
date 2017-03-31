@@ -11,7 +11,7 @@
 * [Subfurther](http://www.subfurther.com/blog/)—数字媒体性质的开发博客
 * [Big Nerd Rank](http://www.bignerdranch.com/training)—主要是详解一些代码
 * [iPhone Development](http://iphonedevelopment.blogspot.com/)—深度iOS教程
-* [Carbon Five Blog](http://blog.carbonfive.com/category/mobile/)—高级Cocoa iOS入门
+* [Carbon Five Blog](http://blog.carbonfive.com/category/mobile/)—高级`Cocoa iOS`入门
 
 ## `Github用法`
 * [git-recipesGit](https://github.com/geeeeeeeeek/git-recipes)  -recipes in Chinese. 高质量的`Git中文`教程.
@@ -23,14 +23,14 @@
 * [App Release Checklist](https://github.com/oisin/app-release-checklist)  -iOS App发布清单。
 * [Hey Focus](http://www.heyfocus.com/)  -帮助你专注于一个任务。
 * [Objective Cloud](http://objective-cloud.com/)  —Objective C App云端服务。
-* [Thermal](http://thermal-core.com/CoreDataEditor)  —核心数据编辑器。
-* [Big Papoo](https://github.com/BigPapoo/AppStaller)  —替代安装Adhoc App。
+* [Thermal](http://thermal-core.com/CoreDataEditor)  —`核心数据编辑器`。
+* [Big Papoo](https://github.com/BigPapoo/AppStaller)  —替代安装`Adhoc` App。
 * [Helpscout](https://www.helpscout.net/)  —用户邮件处理支持。
 * [AppThwack](https://appthwack.com/)  —App自动化测试。
 
 ## `库和开源资源`
 * [VC Transitions](https://github.com/ColinEberhardt/VCTransitionsLibrary)  —利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果。
-* [CS Sticky](https://github.com/Citrrus/BlurryModalSegue)  —UITableView的替代选择，可实现图片的滚动视差和可伸缩设计。
+* [CS Sticky](https://github.com/Citrrus/BlurryModalSegue)  —UITableView的替代选择，可实现`图片的滚动视差`和`可伸缩设计`。
 * [Canvas](https://github.com/CanvasPod/Canvas)  —帮设计师和开发者简化iOS动画开发的工具，无需编码。
 * [NGA Parallax](https://github.com/michaeljbishop/NGAParallaxMotion)  —零编码实现iOS视差效果。
 * [TTAttributed Label](https://github.com/mattt/TTTAttributedLabel)  —UILabel替代选择，支持属性、数据检测以及链接等。
