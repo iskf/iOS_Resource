@@ -75,4 +75,5 @@
 * [iOS Developer Tips](http://iosdevelopertips.com/)—iOS开发相关教程和技巧
 * [Clarity.fm](https://clarity.fm/)—付费的专家求助服务
 
-### 注：以上只是作者感兴趣或者觉得有用的网站和服务，还有其他很多iOS开发相关网站、博客以及服务等并未包含在内。 [原文](https://medium.com/@dvreddy/99-great-resources-for-ios-developers-82743b96f3c8#.b61nz1cve)
+### 注：以上只是作者感兴趣或者觉得有用的网站和服务，还有其他很多iOS开发相关网站、博客以及服务等。 
+### [原文](https://medium.com/@dvreddy/99-great-resources-for-ios-developers-82743b96f3c8#.b61nz1cve)
