@@ -3,16 +3,29 @@
 
 ## `Github用法`
 
-* [git-recipesGit](https://github.com/geeeeeeeeek/git-recipes)  recipes in Chinese. 高质量的`Git中文`教程.
+* [git-recipesGit](https://github.com/geeeeeeeeek/git-recipes)  -recipes in Chinese. 高质量的`Git中文`教程.
+* [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码)  -怎样在Github上面贡献代码
+* [my-git](https://github.com/xirong/my-git)  -有关 `git` 的学习资料
+* [gitignore](https://github.com/github/gitignore)  -非常赞 有用的`.gitignore`模板集合(忽略上传的文件集合)，包含了各种语言.
 
-* [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码)  怎样在Github上面贡献代码
+## `杂项`
+* [App Release Checklist](https://github.com/oisin/app-release-checklist)  -iOS App发布清单。
+* [Hey Focus](http://www.heyfocus.com/)  -帮助你专注于一个任务。
+* [Objective Cloud](http://objective-cloud.com/)  —Objective C App云端服务。
+* [Thermal](http://thermal-core.com/CoreDataEditor)  —核心数据编辑器。
+* [Big Papoo](https://github.com/BigPapoo/AppStaller)  —替代安装Adhoc App。
+* [Helpscout](https://www.helpscout.net/)  —用户邮件处理支持。
+* [AppThwack](https://appthwack.com/)  —App自动化测试。
 
-* [my-git](https://github.com/xirong/my-git)  有关 `git` 的学习资料
-
-* [gitignore](https://github.com/github/gitignore)  非常赞 有用的`.gitignore`模板集合(忽略上传的文件集合)，包含了各种语言.
+## `库和开源资源`
+* [VC Transitions](https://github.com/ColinEberhardt/VCTransitionsLibrary)  —利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果。
+* [CS Sticky](https://github.com/Citrrus/BlurryModalSegue)  —UITableView的替代选择，可实现图片的滚动视差和可伸缩设计。
+* [Canvas](https://github.com/CanvasPod/Canvas)  —帮设计师和开发者简化iOS动画开发的工具，无需编码。
+* [NGA Parallax](https://github.com/michaeljbishop/NGAParallaxMotion)  —零编码实现iOS视差效果。
+* [TTAttributed Label](https://github.com/mattt/TTTAttributedLabel)  —UILabel替代选择，支持属性、数据检测以及链接等。
+* [SS Toolkit](http://sstoolk.it/)  —该库收集了一些渐变、集合视图以及其他简化iOS开发的内容。
 
 ## `完整App`
-
 * [open-source-ios-apps-](https://github.com/dkhamsing/open-source-ios-apps)  iOS开源App集合，分：`swift`与`Objective-C`--国外人整理
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)  用 `React Native` 完成的 HackerNews 客户端。
 * [WeChat](https://github.com/zhengwenming/WeChat)  实现类似`微信朋友圈`或者`QQ空间`，`评论回复`，`九宫格布局`。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
@@ -27,4 +40,15 @@
 * [DSLolita](https://github.com/sam408130/DSLolita)  模仿新浪微博做的一款app，有发送`博文`，`评论`，`点赞`，`私聊`功能。
 * [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/)  iOS开发学习者都希望得到实战训练，但是很多资料都是只有一小部分代码，并不能形成完成的App，笔者在此处收集了很多开源的完整的App，都有源代码哦！--标哥的技术博客
 
-## `Xcode8插件`
+## `测试和安全`
+* [Lookback](http://lookback.io/)—iOS用户测试
+* [Switchboard](https://github.com/KeepSafe/Switchboard)—iOS A/B 测试
+* [Keen IO](https://keen.io/)—移动App分析
+* [Charles](http://www.charlesproxy.com/)—网络封包分析工具Charles
+* [Reveal](http://revealapp.com/)—2D和3D可视化技术查看App运行时的视图层次
+* [Shake Report](http://shakereport.com/)—用户bug报告
+* [Bee](http://neat.io/bee/)—iOS问题跟踪
+* [Crittercism](http://www.crittercism.com/)—移动App性能监控
+* [Raygun](http://raygun.io/)—iOS App错误跟踪
+* [Mobile Security](http://joppar.com/mobile-app-security-guide/)—iOS 开发入门安全指南
+
